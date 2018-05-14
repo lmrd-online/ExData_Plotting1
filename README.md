@@ -1,3 +1,9 @@
+In this repository, there are the scripts related to the Assignment of Week 1 of the module on Exploratory Data Analysis.
+- plot1.R: generates plot1.png which shows a histogram og the Global Active Power.
+- plot2.R: generates plot2.png which shows the Global Active Power across the two selected days.
+- plot3.R: generates plot3.png which shows the Global Relative Power for submetering 1, 2 and 3.
+- plot4.R: generates plot4.png which shows 4 figures related to the above figures. 
+
 ## Introduction
 
 This assignment uses data from
